@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calendar, BookOpen, AlertCircle, CheckCircle, Trash2, Plus, ChevronDown } from 'lucide-react';
+import { Calendar, Trash2, Plus, ChevronDown } from 'lucide-react';
 
 export default function CPAIntegratedLearningSystem() {
   const [activeSubject, setActiveSubject] = useState('fin');
