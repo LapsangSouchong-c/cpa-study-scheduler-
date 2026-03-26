@@ -2,7 +2,7 @@
   "name": "cpa-study-scheduler",
   "version": "1.0.0",
   "description": "CPA試験用 復習スケジューラー",
-  "homepage": "https://LapsangSouchong-c.github.io/cpa-study-scheduler",
+  "homepage": "https://LapsangSouchong-c.github.io/cpa-study-scheduler-",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
